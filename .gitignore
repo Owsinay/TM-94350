@@ -1,0 +1,21 @@
+# Logi
+*.log
+
+# Pliki tymczasowe
+*.tmp
+*.temp
+temp/
+tmp/
+
+# Środowiska wirtualne i menedżery pakietów
+venv/
+.venv/
+env/
+node_modules/
+dist/
+build/
+
+# Pliki systemowe
+.DS_Store
+Thumbs.db
+desktop.ini
