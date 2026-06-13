@@ -30,8 +30,8 @@ Jako inżynier odpowiedzialny za architekturę, rekomenduję następujące uspra
 
 ---
 **Podpisano:**
-*Inżynier Testów:* **[Imię Studenta]**
+*Inżynier Testów:* **[Szymon Owsiany]**
 *Numer Albumu:* `94350`
-*Data:* 
+*Data:* '09.05.2026'
 
  
